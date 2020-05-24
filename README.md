@@ -2,7 +2,7 @@
 mercury snap is a screenshot taking service for webpages. It's built primarily to serve in its parent project [Analogue Mercury](https://github.com/analogue-app/mercury) as a fast screenshot taking endpoint. 
 
 ### Endpoint
-Live endpoint is running at: https://github.com/analogue-app/mercury
+Live endpoint is running at: https://mercury-snap.herokuapp.com/
 
 Pass in the parameter `url` parameter with a valid URL to get hosted link of screenshot.png.
 ```
